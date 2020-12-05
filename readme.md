@@ -1,4 +1,4 @@
-#Calculator using HTMl, CSS and javascript
+# Calculator using HTMl, CSS and javascript
 
 Simple custom calculator built by only using html css for design and vanilla javascript for all the functioning.
 
